@@ -14,7 +14,7 @@ Get in Touch
 
 I'm always open to collaboration, feedback, and connecting with fellow developers and enthusiasts. Let's Connect!
 
-🌐 Website: http://127.0.0.1:5501/YashviMalviya/index.html
+🌐 Website: https://ym7137a.github.io/Ym7137a/
 
 🐦 Linkedin: https://www.linkedin.com/in/yashvimalviya/
 
