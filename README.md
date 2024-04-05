@@ -16,7 +16,7 @@ I'm always open to collaboration, feedback, and connecting with fellow developer
 
 🌐 Website: https://ym7137a.github.io/Ym7137a/
 
-🐦 Linkedin: https://www.linkedin.com/in/yashvimalviya/
+🔗 Linkedin: https://www.linkedin.com/in/yashvimalviya/
 
 📧 Email: yashvimalviya@gmail.com
 
