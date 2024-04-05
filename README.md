@@ -13,9 +13,10 @@ My GitHub repository is a collection of my personal projects, experiments, and c
 Get in Touch
 
 I'm always open to collaboration, feedback, and connecting with fellow developers and enthusiasts. Let's Connect!
-🌐 [Your Website/Portfolio]
 
-🐦 https://www.linkedin.com/in/yashvimalviya/
+🌐 Website: http://127.0.0.1:5501/YashviMalviya/index.html
 
-📧 yashvimalviya@gmail.com
+🐦 Linkedin: https://www.linkedin.com/in/yashvimalviya/
+
+📧 Email: yashvimalviya@gmail.com
 
