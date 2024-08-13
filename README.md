@@ -1,6 +1,6 @@
 About me : 
 
-👋 Hello there! I'm Yashvi Malviya, a passionate Data-driven Analyst. Welcome to my corner of GitHub!
+👋 Hello there! I'm Sravya Jahagirdar, a passionate Data-driven Analyst. Welcome to my corner of GitHub!
 
 Who Am I?
 
