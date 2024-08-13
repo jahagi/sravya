@@ -18,5 +18,5 @@ I'm always open to collaboration, feedback, and connecting with fellow developer
 
 🔗 Linkedin: https://www.linkedin.com/in/yashvimalviya/
 
-📧 Email: yashvimalviya@gmail.com
+📧 Email: sravya.jahagirdar@gmail.com
 
